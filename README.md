@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BohgdanKasiudyk
 - 👀 I’m interested in functional programing using Scala
-- 🌱 I’m currently learning Haskell
+- 🌱 I’m currently learning Scala/Haskell
 - 💞️ I’m looking to collaborate on Big Data project
 - 📫 How to reach me: Telegram @kbohgdan. It is my work account so do not scare if I will not be online.
 
